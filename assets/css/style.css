@@ -2,3 +2,16 @@
  height: 200px;
  width: 200px;
 }
+h1, h3 {
+	text-align: center
+}
+.gemImage {
+	margin: 0 auto;
+
+}
+.default {
+  cursor: default;
+}
+.genImage {
+  cursor: pointer;
+}
